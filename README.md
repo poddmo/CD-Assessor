@@ -80,4 +80,9 @@ cdrdao read-cd --datafile image.bin --device /dev/sr0 --read-raw image.toc
 ## Paranoia reads
 ```cd-read, cd-paranoia, cdda2wav```
 
+```
+time cd-paranoia -v -e -l cd-paranoia1.log -w -X -B 1-2 > cd-paranoia2.log 2>&1
+```
+## Compare reads
+Binary diff?
 
