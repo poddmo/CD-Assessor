@@ -40,17 +40,18 @@ See also CD classification attempts on the Discogs forums:
 
 ## Hardware
 ### Computer
+Tested with AMD A10-7870K, 16GB RAM
 
 ### Optical Drive
-Tested with DVD-RW
+Tested with SATA DVD-RW
 
 ## Operating System
 Tested with Ubuntu 22.04, amd64
 
 ### Dependencies
-Try to stick to the still-maintained GNU libcdio based utilities.
+Try to stick to the still-maintained GNU libcdio based utilities: https://www.gnu.org/software/libcdio/
 
-Ubuntu packages: libcdio-utils, libcdio-paranoia2, cd-paranoia, icedax (formerly known as cdda2wav)
+Ubuntu packages: libcdio-utils, libcdio-paranoia2, cd-paranoia, icedax (formerly known as cdda2wav), wodim
 
 # Characterise drive and disc
 ## CD Drive
