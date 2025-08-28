@@ -1,5 +1,5 @@
 # CD-Assessor
-A fast, objective, non-visual test for audio CD (CD-DA) media grading. Intended to be useful when selling and buying CDs. Appearances matter for asset value but playibility is what music lovers care about. No care is given to saving the CD audio - this is not about ripping.
+A fast, objective (ie non-visual) and automated test for audio CD (CD-DA) media grading. Intended to be useful when selling and buying CDs. Appearances matter for asset value but playibility is what music lovers care about. No care is given to saving the CD audio - this is not about ripping.
 
 # Overview
 
