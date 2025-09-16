@@ -1,6 +1,8 @@
 # CD-Assessor
 A fast, objective (ie non-visual) and automated test for audio CD (CD-DA) media grading. Intended to be useful when selling and buying CDs. Appearances matter for asset value but playibility is what music lovers care about. No care is given to saving the CD audio - this is not about ripping.
 
+**!! Review aaru media scan command. https://aaru.app/media/scan.md !!**
+
 # Overview
 
 This is a placeholder repository for an idea I have to create a tool to objectively assess the play condition of audio CDs, as quickly as possible.
